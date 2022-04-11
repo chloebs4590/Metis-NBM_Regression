@@ -23,7 +23,7 @@ I compiled the dataset using scraped data from the National Center for Education
 
 *Models*
 
-Linear, lassocv and polynomial regressions were evaluated before ultimately choosing LassoCV regression models for each round. While the lassocv regression models were not the best fit in either round (the polynomial models were), they were selected for the combination of simplification, lower error (the error in the polynomials was the highest), less inconsistencies in error, and more normally distributed residuals with a zero mean.
+Linear, LassoCV and polynomial regressions were evaluated before ultimately choosing LassoCV regression models for each round. While the LassoCV regression models were not the best fit in either round (the polynomial models were), they were selected for the combination of simplification, lower error (the error in the polynomials was the highest), less inconsistencies in error, and more normally distributed residuals with a zero mean.
 
 *Model Evaluation and Selection*
 
